@@ -4,9 +4,9 @@ Hello everyone! This is my first portfolio project from CodeCademy course "Full-
 
 ## Stack
 
-*JS
-*Node.js
-*git
++ JS
++ Node.js
++ git
 
 ### General info
 
